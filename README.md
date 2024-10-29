@@ -1,1 +1,7 @@
-# information-system-design
+# Проектирование информационной системы
+Предметная область «Отдел кредитования».
+В ходе проектирования были созданы диаграммы:
+1. IDEF0
+2. DFD
+3. UML (Use Case diagram, Activity diagram, Sequence diagram)
+Также была разработана база данных.
